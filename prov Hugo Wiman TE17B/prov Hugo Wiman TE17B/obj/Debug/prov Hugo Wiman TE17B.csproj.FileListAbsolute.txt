@@ -1,0 +1,7 @@
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\bin\Debug\prov Hugo Wiman TE17B.exe.config
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\bin\Debug\prov Hugo Wiman TE17B.exe
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\bin\Debug\prov Hugo Wiman TE17B.pdb
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\obj\Debug\prov Hugo Wiman TE17B.csprojAssemblyReference.cache
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\obj\Debug\prov Hugo Wiman TE17B.csproj.CoreCompileInputs.cache
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\obj\Debug\prov Hugo Wiman TE17B.exe
+C:\Users\hugo.wiman\Documents\GitHub\Test1\prov Hugo Wiman TE17B\prov Hugo Wiman TE17B\obj\Debug\prov Hugo Wiman TE17B.pdb
